@@ -1,2 +1,2 @@
 rootProject.name = "my-app"
-include ("core-module")
+include ("utils-module", "core-module", "app-module")
